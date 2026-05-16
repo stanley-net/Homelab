@@ -68,6 +68,18 @@ Ubuntu displayed an SMBus controller warning during boot inside VMware.
 - Waited for system startup
 - Ubuntu booted normally
 
+- ## Side Channel Mitigations
+
+VMware displayed a warning about side channel mitigations being enabled.
+
+### What it means
+- Side channel mitigations are CPU security protections related to vulnerabilities such as Spectre and Meltdown.
+- They improve security but may slightly reduce virtual machine performance.
+
+### Notes
+- Left enabled during installation
+- No issues observed during Ubuntu setup
+
 ---
 
 # Next Steps
