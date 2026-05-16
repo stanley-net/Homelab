@@ -98,7 +98,7 @@ sudo apt update && sudo apt upgrade
 - How package management works in Ubuntu
 - Difference between update and upgrade
 - Basic usage of sudo
-- ![update&upgrade](screenshots/update&upgrade.png)
+
 
 # Next Steps
 - Linux terminal basics
