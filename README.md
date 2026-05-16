@@ -67,7 +67,7 @@ Ubuntu displayed an SMBus controller warning during boot inside VMware.
 ### Solution
 - Waited for system startup
 - Ubuntu booted normally
-- ![SMBus(screenshots/SMBus.png)
+- ![SMBus](screenshots/SMBus.png)
 
 - ## Side Channel Mitigations
 
