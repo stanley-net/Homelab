@@ -67,6 +67,7 @@ Ubuntu displayed an SMBus controller warning during boot inside VMware.
 ### Solution
 - Waited for system startup
 - Ubuntu booted normally
+- ![SMBus(screenshots/SMBus.png)
 
 - ## Side Channel Mitigations
 
@@ -79,6 +80,7 @@ VMware displayed a warning about side channel mitigations being enabled.
 ### Notes
 - Left enabled during installation
 - No issues observed during Ubuntu setup
+- ![Side Channel Mitigations](screenshots/side-channel-mitigations.jpg)
 
 ---
 
@@ -96,6 +98,7 @@ sudo apt update && sudo apt upgrade
 - How package management works in Ubuntu
 - Difference between update and upgrade
 - Basic usage of sudo
+- ![update&upgrade](screenshots/update&upgrade.png)
 
 # Next Steps
 - Linux terminal basics
