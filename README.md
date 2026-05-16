@@ -82,6 +82,21 @@ VMware displayed a warning about side channel mitigations being enabled.
 
 ---
 
+# Initial System Update
+
+After installing Ubuntu I updated the system packages.
+
+## Commands used
+
+```bash
+sudo apt update && sudo apt upgrade
+```
+
+## What I learned
+- How package management works in Ubuntu
+- Difference between update and upgrade
+- Basic usage of sudo
+
 # Next Steps
 - Linux terminal basics
 - SSH
