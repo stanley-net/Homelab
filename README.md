@@ -25,7 +25,29 @@ Technical documentation, configuration steps, and project updates will be added 
 
 ## Project Status
 
-**Current stage:** Initial setup and installation documentation.
+### Infrastructure
+- [x] Proxmox VE installation
+- [x] Proxmox network configuration
+- [ ] Virtual machine architecture
+- [ ] Backup strategy
+
+### Debian Server
+- [x] Debian installation
+- [x] CLI configuration
+- [ ] SSH configuration
+- [ ] Docker installation
+
+### Services
+- [ ] Tailscale
+- [ ] Home Assistant
+- [ ] Frigate NVR
+- [ ] Prometheus
+- [ ] Grafana
+
+### Documentation
+- [x] Proxmox documentation
+- [ ] Debian documentation
+- [ ] Network architecture diagram
 
 ## Disclaimer
 
