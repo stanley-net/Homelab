@@ -78,6 +78,33 @@ The node summary displays a warning that a non-production-ready repository is en
 
 ## 5. Next Steps
 
-- Plan virtual machines and backups
-- Plan the first virtual machine
+### Virtualization
+- Plan virtual machine architecture
+- Define CPU, RAM and storage allocation
+- Create the first Debian Server VM
+- Verify VM network connectivity
+
+### Storage and Backup
+- Review available storage capacity
+- Plan storage allocation for virtual machines
 - Configure a backup strategy
+- Test backup and restore procedures
+
+### Infrastructure Services
+- Deploy Docker Engine and Docker Compose
+- Deploy Grafana and Prometheus
+- Deploy Home Assistant OS
+- Deploy Frigate NVR
+- Deploy Tailscale for remote access
+
+### Network and Security
+- Configure secure remote access
+- Review firewall rules
+- Plan network segmentation
+- Document remote access architecture
+
+### Documentation
+- Document virtual machine configurations
+- Document deployed services
+- Update network architecture diagram
+- Document backup and recovery procedures
